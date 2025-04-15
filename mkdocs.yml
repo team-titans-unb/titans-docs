@@ -49,9 +49,9 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: simple/youtube
+    - icon: youtube
       link: https://youtube.com/@james-willett
-    - icon: simple/linkedin
+    - icon: linkedin
       link: https://linkedin.com/in/willettjames
 
 copyright: Copyright &copy; 2024 James Willett
