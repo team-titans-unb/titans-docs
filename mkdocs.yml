@@ -49,9 +49,9 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: :simple-youtube:
-      link: https://youtube.com/@james-willett
-    - icon: :material-linkedin:
-      link: https://linkedin.com/in/willettjames
+    - icon: material/youtube
+      link: https://www.youtube.com/@titansunb-fga5261
+    - icon: material/linkedin
+      link: https://www.linkedin.com/company/titans-equipe-de-rob%C3%B3tica
 
 copyright: Copyright &copy; 2024 James Willett
