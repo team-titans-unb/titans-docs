@@ -1,0 +1,44 @@
+[data-md-color-scheme="titans-light"] {
+  color-scheme: light;
+  
+
+  --md-primary-fg-color: #C72612;
+  --md-accent-fg-color:  #D0830f;
+
+
+  --md-default-bg-color: #ffffff;
+  --md-typeset-color: #1a1a1a;
+
+
+  --md-code-bg-color: #f5f5f5;
+  --md-code-fg-color: #222;
+
+
+  --md-typeset-a-color: #C72612;
+
+
+  --md-typeset-table-color: rgba(0, 0, 0, 0.05);
+}
+
+
+[data-md-color-scheme="titans-dark"] {
+  color-scheme: dark;
+  
+
+  --md-primary-fg-color: #560204;
+  --md-accent-fg-color:  #D0830f;
+
+
+  --md-default-bg-color: #383838;
+  --md-typeset-color: #e0e0e0;
+
+
+  --md-code-bg-color: #1e1e1e;
+  --md-code-fg-color: #f5f5f5;
+
+
+  --md-typeset-a-color: #d66a2a;
+
+
+  --md-typeset-table-color: rgba(204, 204, 204, 0.05);
+}
