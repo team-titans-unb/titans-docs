@@ -1,21 +1,27 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+# Home
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+**Titans-vision** é uma nova geração de sistema de visão para robôs da liga Very Small Size (VSS), desenvolvido com base no projeto [vss-vision](https://github.com/robocin/vss-vision) da equipe RoboCIn
 
-## Project layout
+## 🎯 Objetivo
+- O projeto visa detectar e rastrear robôs e a bola em tempo real durante partidas de futebol de robôs, utilizando técnicas modernas de visão computacional.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 🔍 Principais Funcionalidades
+- Detecção precisa de robôs e bola no campo de jogo.
+- Processamento de vídeo em tempo real com baixa latênca.
+- Interface gráfica intuitiva para visualização e ajustes.
 
-## Using Emojis
+## ⚙️ Tecnologias Utilizadas
+- OpenCV para processamento de imagens.
+- Qt5 para desenvolvimento da interface gráfica.
+- Docker para facilitar a implantação e execução do sistema.
+- Protocol Buffers para comunicação eficiente entre módulos.
 
-I like to drink :beers: after I played :soccer:
+## 📷 Exemplo de Funcionameto
+
+[Sistema de Visão em Ação](link)
+
+
+
+
