@@ -17,3 +17,13 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+
+nav:
+  - Sistema de Visão:
+      - Introdução: visao/index.md
+      - Instalação: visao/1instalar.md
+      - Configuração do Campo: visao/2campo.md
+      - Segmentação de Cor: visao/3cores.md
+      - Configuração de Dados: visao/4dado.md
+
+
